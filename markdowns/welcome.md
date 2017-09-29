@@ -28,7 +28,7 @@ In JavaScript, numbers are represented as 64-bit floating point, the same as Jav
 ```javascript runnable
 let x = 3.14;     // Integer, a number with decimals
 let y = 34;       // Floating point, A number without decimals
-let z = = 0xFF;   // HexaDecimal, `z` will be 255
+let z = 0xFF;   // HexaDecimal, `z` will be 255
 
 // Let's print/log them
 console.log(x);
