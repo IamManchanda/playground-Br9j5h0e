@@ -63,7 +63,7 @@ console.log(d); //=> 1144
 
 Here are how will you do mathematical operations for addition, subtraction, multiplication, division, and remainder in JavaScript respectively.
 
-| **Operator**   | **Description**   |
+| Operator       | Description       |
 | -------------- | ----------------- |
 | +              | Addition          |
 | –              | Subtraction       |
