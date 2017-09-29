@@ -63,13 +63,13 @@ console.log(d); //=> 1144
 
 Here are how will you do mathematical operations for addition, subtraction, multiplication, division, and remainder in JavaScript respectively.
 
-| **Operator** | **Description** |
-| ------------ | --------------- |
-| +            | Addition        |
-| –            | Subtraction     |
-| *            | Multiplication  |
-| /            | Division        |
-| %            | Remainder       |
+| **Operator**   | **Description**   |
+| -------------- | ----------------- |
+| +              | Addition          |
+| –              | Subtraction       |
+| *              | Multiplication    |
+| /              | Division          |
+| %              | Remainder         |
 
 **Special Numbers:** There are three special values in JavaScript that are considered as numbers but don’t behave like normal numbers. The first two are `Infinity` and `-Infinity`, which represents the positive and negative infinities. Please note that `Infinity - 1` is still Infinity, and so on. The value `Infinity` represents all values greater than `1.79769313486231570e+308`. 
 
