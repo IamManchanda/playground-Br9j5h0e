@@ -21,7 +21,7 @@ console.log(number); //=> 12
 
 As I said before no magic here, this will cause the bit pattern for the number 12 to come into existence inside the computer’s memory. Unlike other programming languages. JavaScript uses a fixed number of bits, 64 of them to be precise. Here's what [MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Data_structures) says:
 
-> According to the ECMAScript standard, there is only one number type: the [double-precision 64-bit binary format IEEE 754 value](http://en.wikipedia.org/wiki/Double_precision_floating-point_format)(number between -(253 -1) and 253 -1). **There is no specific type for integers**. In addition to being able to represent floating-point numbers, the number type has three symbolic values: `+Infinity`, `-Infinity`, and `[NaN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/NaN)` (not-a-number).
+> According to the ECMAScript standard, there is only one number type: the [double-precision 64-bit binary format IEEE 754 value](http://en.wikipedia.org/wiki/Double_precision_floating-point_format)(number between -(253 -1) and 253 -1). **There is no specific type for integers**. In addition to being able to represent floating-point numbers, the number type has three symbolic values: `+Infinity`, `-Infinity`, and `NaN` (not-a-number).
 
 In JavaScript, numbers are represented as 64-bit floating point, the same as Java's `double`. There is no separate integer type, so please remember that `1` and `1.0` are the same value.  A number literal can be an integer, floating point, or (integer) hexadecimal. Please note that JavaScript interprets numeric constants as hexadecimal if they are preceded by 0x.
 
