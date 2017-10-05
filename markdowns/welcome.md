@@ -1,6 +1,6 @@
 # Part 3 - Numbers in JavaScript 
 
-Welcome back, In the previous article we learned about `var` , `const` and `let`. Now in upcoming articles we will learn about Datatypes in JavaScript. This article will look to cover **Numbers**. 
+Welcome back, In the [previous](https://tech.io/playgrounds/6593/modern-es6-javascript-pt--2) article we learned about `var` , `const` and `let`. Now in upcoming articles we will learn about Datatypes in JavaScript. This article will look to cover **Numbers**. 
 
 Computer’s and data, these two words have an awesome relationship with each other. Inside the computer’s world, there is only data. Read the data, modify the data, create a new data—simply put, data is everything according to me when it comes to Programming. 
 
@@ -93,7 +93,7 @@ console.log(valueIsNaN(NaN));        // true
 console.log(valueIsNaN(Number.NaN)); // true
 ```  
 
-If you made it here to this paragraph, you are awesome. Next up we will cover **Strings and ES6 Template Strings**.
+If you made it here to this paragraph, you are awesome. Next up we will cover **Strings and ES6 Template Strings**. Check that article [here](https://tech.io/playgrounds/6671/modern-es6-javascript-pt--4).
 
 ## References
 
